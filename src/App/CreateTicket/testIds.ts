@@ -1,0 +1,21 @@
+export const spotPriceTestId = "create-ticket--spot-price"
+export const entryPriceTestId = "create-ticket--entry-price"
+export const basisTestId = "create-ticket--basis"
+export const priceBreakdown = "create-ticket--price-breakdown"
+export const leverageValTestId = "create-ticket--leverage-value"
+export const arrowTestId = (id: string) => `create-ticket--maturity-arrow-${id}`
+export const basisRateTestId = (id: string) => `create-ticket--basis-rate-${id}`
+export const depositAmountTestId = "create-ticket--deposit-amount"
+export const enoughBalanceErrorTestId = "create-ticket--enough-balance-error"
+export const positionValueTestId = "create-ticket--position-value"
+export const feeTestId = "create-ticket--fee"
+export const liqPriceTestId = "create-ticket--liq-price"
+export const markPriceTestId = "create-ticket--markPrice"
+export const expiryDateTestId = "create-ticket--expiry-date"
+export const minQtyErrorTestId = "create-ticket--min-quantity-error"
+export const minQtyTestId = "create-ticket--min-quantity"
+export const eqOrderSizeTestId = "create-ticket--equivalent-order-size"
+export const maxLeverageUnavTestId = "create-ticket--max-leverage-unavailable"
+export const unableToRetrieveQuoteTestId = "create-ticket--unable-quote"
+export const maturitySelectTestId = (id: string) => `create-ticket--select-maturity-${id}`
+export const submittingOverlayTestId = "create-ticket--submitting-overlay"

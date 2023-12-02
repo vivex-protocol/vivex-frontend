@@ -1,0 +1,29 @@
+{
+    "name": "Contango Protocol",
+    "short_name": "Contango Protocol",
+    "description": "Crypto Expirable Contracts",
+    "iconPath": "logo/logo_full.svg",
+    "icons": [
+      {
+        "src": "android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "maskable_icon_x1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#05050F",
+    "background_color": "#05050F"
+  }
+  
